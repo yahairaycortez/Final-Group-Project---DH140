@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
+=======
+pandas
+numpy
+matplotlib
+
+>>>>>>> d26767374b25e6359d97df56e8b3893e612fade3
